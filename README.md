@@ -1,5 +1,9 @@
 # Dynamic Visuals with Bookmarks & Toggle Buttons in Power BI & SWITCH + SELECTEDVALUE – Creating Dynamic Measures in Power BI
 
+Dynamic Visuals with Bookmarks & Toggle Buttons Use bookmarks and toggle buttons to switch between visuals, keeping dashboards intuitive and interactive for seamless data exploration.
+
+SWITCH + SELECTEDVALUE – Dynamic Measures Apply DAX logic to let users dynamically select metrics like Total Cost, Total Discount, and Quantity Bought, ensuring personalized insights.
+
 
 🚀 **Enhancing Data Exploration** 🚀
 
