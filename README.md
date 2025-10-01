@@ -26,7 +26,7 @@ This approach keeps dashboards **clean, intuitive, and interactive**, making it 
 
  [**Dashboard Link**](https://app.powerbi.com/view?r=eyJrIjoiMmQ4MWM0NDYtZTVhOC00MjllLThlMjItODY2MGY0NzZhM2FiIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)   
  
- ![**Image Link**]((https://github.com/user-attachments/assets/921eef33-fc2b-445f-92e5-4f1fb9cf9e22)
+ ![**Image Link**](https://github.com/user-attachments/assets/921eef33-fc2b-445f-92e5-4f1fb9cf9e22)
 
 
 ---
