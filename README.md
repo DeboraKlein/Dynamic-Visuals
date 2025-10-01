@@ -33,17 +33,17 @@ This approach keeps dashboards **clean, intuitive, and interactive**, making it 
 
 # SWITCH + SELECTEDVALUE – Creating Dynamic Measures in Power BI
 
-⚡ **Customizing Metrics with User Selection** ⚡
+ **Customizing Metrics with User Selection** 
 
 A powerful technique I explored today: using **SWITCH + SELECTEDVALUE** to allow users to dynamically change the metric they want to analyze!
 
 With this approach, users can swap between:  
 
-✔ **Total Cost**  
-✔ **Total Discount**  
-✔ **Quantity Bought**  
+ **Total Cost**  
+ **Total Discount**  
+ **Quantity Bought**  
 
-🔎 Here’s a snippet of the **DAX logic**:
+ Here’s a snippet of the **DAX logic**:
 
 DAX
 Option = SWITCH(
@@ -56,6 +56,6 @@ Option = SWITCH(
 Title = SELECTEDVALUE(KPIs[New Values]) & " by Supplier"
 
 
-🔗 [**Dashboard Link**](https://app.powerbi.com/view?r=eyJrIjoiMmQ4MWM0NDYtZTVhOC00MjllLThlMjItODY2MGY0NzZhM2FiIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)  
-🖼️ [**Image Link**](![Graph change - Graph Change   Analysis Exchange by Debora Klein - Power BI - Google Chrome 08_06_2025 19_38_02](https://github.com/user-attachments/assets/f2a303b8-72e2-47a6-a788-80892260ffb2)
-)
+ [**Clique aqui para acessar Dashboard Link**](https://app.powerbi.com/view?r=eyJrIjoiMmQ4MWM0NDYtZTVhOC00MjllLThlMjItODY2MGY0NzZhM2FiIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)  
+ ![**Image Link**](https://github.com/user-attachments/assets/f2a303b8-72e2-47a6-a788-80892260ffb2)
+
