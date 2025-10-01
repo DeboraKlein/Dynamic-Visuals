@@ -5,28 +5,29 @@ Dynamic Visuals with Bookmarks & Toggle Buttons Use bookmarks and toggle buttons
 SWITCH + SELECTEDVALUE – Dynamic Measures Apply DAX logic to let users dynamically select metrics like Total Cost, Total Discount, and Quantity Bought, ensuring personalized insights.
 
 
-🚀 **Enhancing Data Exploration** 🚀
+ **Enhancing Data Exploration** 
 
 Today, I learned a great way to offer users flexibility in data visualization:
 
-- 🔹 **Using bookmarks** to toggle between a map and bar chart, giving users control over how they view their data.  
-- 🔹 **Adding two buttons** to make the toggle seamless, almost like a simple on/off switch for visuals.
+-  **Using bookmarks** to toggle between a map and bar chart, giving users control over how they view their data.  
+-  **Adding two buttons** to make the toggle seamless, almost like a simple on/off switch for visuals.
 
 This approach keeps dashboards **clean, intuitive, and interactive**, making it easier to analyze trends **spatially or numerically**!
 # Dynamic Visuals with Bookmarks & Toggle Buttons in Power BI
 
-🚀 **Enhancing Data Exploration** 🚀
+ **Enhancing Data Exploration** 
 
 Today, I learned a great way to offer users flexibility in data visualization:
 
-- 🔹 **Using bookmarks** to toggle between a map and bar chart, giving users control over how they view their data.  
-- 🔹 **Adding two buttons** to make the toggle seamless, almost like a simple on/off switch for visuals.
+-  **Using bookmarks** to toggle between a map and bar chart, giving users control over how they view their data.  
+-  **Adding two buttons** to make the toggle seamless, almost like a simple on/off switch for visuals.
 
 This approach keeps dashboards **clean, intuitive, and interactive**, making it easier to analyze trends **spatially or numerically**!
 
-🔗 [**Dashboard Link**](https://app.powerbi.com/view?r=eyJrIjoiMmQ4MWM0NDYtZTVhOC00MjllLThlMjItODY2MGY0NzZhM2FiIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)   
-🖼️ [**Image Link**](![Graph change - Graph Change   Analysis Exchange by Debora Klein - Power BI - Google Chrome 08_06_2025 19_37_50](https://github.com/user-attachments/assets/921eef33-fc2b-445f-92e5-4f1fb9cf9e22)
-)
+ [**Dashboard Link**](https://app.powerbi.com/view?r=eyJrIjoiMmQ4MWM0NDYtZTVhOC00MjllLThlMjItODY2MGY0NzZhM2FiIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)   
+ 
+ ![**Image Link**]((https://github.com/user-attachments/assets/921eef33-fc2b-445f-92e5-4f1fb9cf9e22)
+
 
 ---
 
